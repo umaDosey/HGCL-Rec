@@ -26,11 +26,11 @@ Switch your working directory to ```torchVersion/```, run ```python Main.py```. 
 * Yelp
 ```
 python Main.py --data yelp 
-
-* Gowalla
+```
+* gowalla
 ```
 python Main.py --data gowalla
-
+```
 * Amazon
 ```
 python Main.py --data amazon
