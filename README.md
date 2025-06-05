@@ -16,7 +16,7 @@ pyTorch:
 ```
 
 ### For pyTorch
-Switch your working directory to ```torchVersion/```, run ```python Main.py```. The implementation has been improved in the torch code. You may need to adjust the hyperparameter settings. If you want to run HCCF on other datasets, we suggest you consider using a simplified version `torchVersion/Model_sparse.py` if your dataset is sparse. To do so, you should change the imported module in `torchVersion/Main.py` from `Model` to `Model_sparse`. For the dataset used in this paper, we recommend the following configurations:
+For the dataset used in this paper, we recommend the following configurations:
 
 * Yelp
 ```
