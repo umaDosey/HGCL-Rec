@@ -38,4 +38,5 @@ python Main.py --data amazon
 
 
 ## Acknowledgements
-This research is supported by the research grants from the Department of Computer Science & Musketeers Foundation Institute of Data Science at the University of Hong Kong, the Natural Sciences & Engineering Research Council (NSERC) of Canada.
+This research is supported by the research grants from the Graduate School of Information Science and Technology, Osaka University.
+
