@@ -6,12 +6,6 @@
 ## Environment
 The codes of HGCL are implemented and tested under the following development environment:
 
-TensorFlow:
-* python=3.6.12
-* tensorflow=1.14.0
-* numpy=1.16.0
-* scipy=1.5.2
-
 pyTorch:
 * python=3.10.4
 * torch=1.11.0
