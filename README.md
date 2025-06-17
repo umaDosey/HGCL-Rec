@@ -33,5 +33,5 @@ python Main.py --data amazon
 
 
 ## Acknowledgements
-This research is supported by the research grants from the Graduate School of Information Science and Technology, Osaka University.
+This research is supported by the Graduate School of Information Science and Technology, the University of Osaka.
 
