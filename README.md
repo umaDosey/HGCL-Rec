@@ -1,7 +1,9 @@
-
 # HyperGraph Contrastive Learning for Recommendation
+This is our official implementation for the paper:
 
-
+Yuma Dose, Shuichiro Haruta, Yihong Zhang, and Takahiro Hara
+"Hypergraph Contrastive Learning with Graph Structure Learning for Recommendation"
+Proceedings of IEEE International Conference on Machine Learning and Applications (ICMLA), pages 416-423, 2024.
 
 ## Environment
 The codes of HGCL are implemented and tested under the following development environment:
